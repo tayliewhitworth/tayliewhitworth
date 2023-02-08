@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tayliewhitworth
-- 👀 I’m interested in fitness, celeb gossip and coding!
-- 🌱 I’m currently learning web development and computer science.
-- 💞️ I’m looking to collaborate on anything! I want to help/learn as much as I can!
+- 👩‍💻 I’m a fullstack developer.
+- 👀 I love programming and building cool web apps!
+- 💞️ If you are looking for a web developer, I'm your girl.
 - 📫 How to reach me - follow my insta @taylie.october
 
 <!---
